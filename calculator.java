@@ -1,12 +1,4 @@
 
-
-Skip to content
-Using Gmail with screen readers
-Conversations
-17% of 15 GB used
-Terms · Privacy · Programme Policies
-Last account activity: 1 minute ago
-Details
 import java.awt.*;
 import javax.swing.*;
 import java.awt.event.*;
